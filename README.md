@@ -13,7 +13,7 @@ This project should not be used on a live system.
 What things you need to install the software and how to install them. For now, maybe copy in how to install python and python3 using apt.
 
 ```
-Give examples
+You'll need python3, check with "python3" then you can quit()
 ```
 
 ### Installing
